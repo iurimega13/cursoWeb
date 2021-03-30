@@ -7,4 +7,4 @@ document.querySelector("#calcular").addEventListener("click", function () {
     } else {
         alert("Digite os valores para calcular");
     };
-});
+});q
